@@ -19,5 +19,3 @@ The Power BI report includes interactive dashboards and visualizations for:
 - Restaurant distribution by continent, country, and city.
 - Customer ratings and average costs.
 - Cuisine analysis and online service availability.
-
-## Repository Structure
